@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Fahren Al Faqih 👋
 
-<!--
-**FahrenAlfaqih/FahrenAlfaqih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate web developer with experience in building various web applications, solving technical challenges, and constantly learning new technologies.
 
-Here are some ideas to get you started:
+## About Me 🎯
+- 🔭 Currently working on a full-stack web application
+- 🌱 Learning about GraphQL and AWS
+- 💬 Ask me about JavaScript, React, Node.js
+- 📫 How to reach me: johndoe@gmail.com
+- ⚡ Fun fact: I love to cook Italian food 🍝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🛠️
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, PHP
+- **Database**: MongoDB, MySQL
+- **Version Control**: Git, GitHub
+
