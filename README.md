@@ -4,10 +4,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 
 ## About Me 🎯
 - 🔭 Currently working on a full-stack web application
-- 🌱 Learning about GraphQL and AWS
+- 🌱 Learning about Docker and Kubertenes
 - 💬 Ask me about JavaScript, React, Node.js
-- 📫 How to reach me: johndoe@gmail.com
-- ⚡ Fun fact: I love to cook Italian food 🍝
+- 📫 How to reach me: fahren66@gmail.com
 
 ## Skills 🛠️
 - **Frontend**: HTML, CSS, JavaScript, React
