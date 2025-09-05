@@ -5,12 +5,11 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 ## About Me 🎯
 - 🔭 Currently working on a full-stack web application
 - 🌱 Learning about Docker and Kubertenes
-- 💬 Ask me about JavaScript, React, Node.js
 - 📫 How to reach me: fahren66@gmail.com
 
 ## Skills 🛠️
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, PHP
-- **Database**: MongoDB, MySQL
+- **Database**: MongoDB, MySQL, Postgree
 - **Version Control**: Git, GitHub
 
